@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on a variety of projects ranging from Robotics to the creation of new programming languages. Please message me if you would like to collaborate on my current projects or if you have questions about my previous projects!
+🔭 I’m currently working on a variety of projects ranging from Robotics to the creation of new programming languages. 
+
+Please message me if you would like to collaborate on my current projects or if you have questions about my previous projects!
